@@ -4973,17 +4973,7 @@ snapshots:
       - supports-color
       - terser
 
-  vite-plugin-manus-runtime@0.0.50:
-    dependencies:
-      '@medv/finder': 4.0.2
-      clsx: 2.1.1
-      modern-screenshot: 4.6.6
-      nanoid: 5.1.6
-      react: 19.2.0
-      react-dom: 19.2.0(react@19.2.0)
-      tailwind-merge: 3.3.1
-
-  vite@5.4.21(@types/node@24.9.2)(lightningcss@1.30.2):
+    vite@5.4.21(@types/node@24.9.2)(lightningcss@1.30.2):
     dependencies:
       esbuild: 0.21.5
       postcss: 8.5.6
